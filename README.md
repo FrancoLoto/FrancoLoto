@@ -1,4 +1,6 @@
-# Hi there 👋 I'm Franco Loto 
+<p align="center"> 
+  <h1>Hi there 👋 I'm Franco Loto</h1>
+</p>
 
 
 ### You're welcome to my ✨ repo ✨ :computer:
