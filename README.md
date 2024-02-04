@@ -1,3 +1,6 @@
+[![banner.png](https://i.postimg.cc/nzwXfLhF/banner.png)](https://postimg.cc/WFgNMTZC)
+
+
 <h1 align="center"> 
   Hi there 👋 I'm Franco Loto
 </h1>
