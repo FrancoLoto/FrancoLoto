@@ -1,6 +1,6 @@
-<p align="center"> 
-  <h1>Hi there 👋 I'm Franco Loto</h1>
-</p>
+<h1 align="center"> 
+  Hi there 👋 I'm Franco Loto
+</h1>
 
 
 ### You're welcome to my ✨ repo ✨ :computer:
