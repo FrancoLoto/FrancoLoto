@@ -24,8 +24,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <img src='https://i.pinimg.com/originals/47/8c/fe/478cfec0807b19eb0d96073c0301c82d.gif' style="height: 400px;"/>
+</p>
 
 ---
 
