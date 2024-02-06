@@ -1,4 +1,4 @@
-[![banner.png](https://i.postimg.cc/nzwXfLhF/banner.png)](https://postimg.cc/WFgNMTZC)
+[![Black-And-Gold-Vintage-Vlogger-Youtube-Banner.png](https://i.postimg.cc/JhFmVzxw/Black-And-Gold-Vintage-Vlogger-Youtube-Banner.png)](https://postimg.cc/JyjSjmSK)
 
 
 <h1 align="center"> 
